@@ -17,14 +17,14 @@ para a espécie a qual o usuário escolheu e sistema de contas para controle de 
 
 Esse projeto terá as seguintes funcionalidades:
 
-1. Uma listagem dos peixes cadastrados no banco de dados e suas informações
-2. Uma aba comparativa entre dois peixes a sua escolha, mostrando as suas respectivas compatibilidades
-3. Sistema de pesquisa por filtro, para pesquisar determinadas espécies que estão nos parâmetros desejados
-4. Uma aba para peixes marinhos e peixes de água doce
+   1. Uma listagem dos peixes cadastrados no banco de dados e suas informações
+   2. Uma aba comparativa entre dois peixes a sua escolha, mostrando as suas respectivas compatibilidades
+   3. Sistema de pesquisa por filtro, para pesquisar determinadas espécies que estão nos parâmetros desejados
+   4. Uma aba para peixes marinhos e peixes de água doce
 
 4. **Protótipo**
 
 5. **Referências**
 
-https://www.kauar.com.br
-https://jackfishaquarismo.com.br
+[Kauar Peixes](https://www.kauar.com.br)
+[JackFish Aquarismo](https://jackfishaquarismo.com.br)
