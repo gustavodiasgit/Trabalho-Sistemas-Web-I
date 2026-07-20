@@ -68,13 +68,14 @@
    ```bash
    cd backend
    ```
+2. Instale o MongoDB
 
-2. Instale as dependências:
+4. Instale as dependências:
    ```bash
    npm install
    ```
 
-3. Crie e configure o arquivo `.env` com as seguintes chaves (exemplo padrão já incluso):
+5. Crie e configure o arquivo `.env` com as seguintes chaves (exemplo padrão já incluso):
    ```env
    PORT=5005
    MONGO_URI=mongodb://127.0.0.1:27017
@@ -82,13 +83,13 @@
    JWT_SECRET=admin123
    ```
 
-4. Alimente o banco de dados com a carga inicial de peixes e postagens (Seed):
+6. Alimente o banco de dados com a carga inicial de peixes e postagens (Seed):
    ```bash
    npm run seed
    ```
    *(Nota: O script `seed.js` preencherá dados iniciais para visualização no catálogo).*
 
-5. Inicie o servidor em modo de desenvolvimento:
+7. Inicie o servidor em modo de desenvolvimento:
    ```bash
    npm run dev
    ```
