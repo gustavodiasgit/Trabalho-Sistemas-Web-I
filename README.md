@@ -4,11 +4,6 @@
 
 ---
 
-## Integrantes do Grupo
-
-- Ana Clara Francisca Barbosa - 22.2.8096
-- Ewerton Gomes Barcia - 22.2.8066
-- Gustavo Guimarães de Oliveira Dias - 22.2.8020
 
 ## Funcionalidades
 
@@ -116,3 +111,8 @@
    ```bash
    npm run dev
    ```
+
+
+## Funcionalidades propostas que não foram desenvolvidas
+- Comparador de parâmetros entre peixes
+- Sistema de vendas 
