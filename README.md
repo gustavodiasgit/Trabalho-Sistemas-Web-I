@@ -69,6 +69,7 @@
    cd backend
    ```
 2. Instale o MongoDB
+   https://www.mongodb.com/try/download/community
 
 4. Instale as dependências:
    ```bash
